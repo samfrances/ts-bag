@@ -1,0 +1,7 @@
+{
+  "name": "ts-bag",
+  "version": "1.0.0",
+  "description": "A grab bag of Typescript utilities, experiments etc.",
+  "repository": "git@github.com:samfrances/ts-bag.git",
+  "author": "Sam Frances <sam@samfrances.uk>"
+}
